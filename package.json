@@ -1,0 +1,20 @@
+{
+  "name": "gh-ts-module",
+  "version": "0.0.0",
+  "description": "GitHub-hosted TypeScript module template",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "install": "npm run build"
+  },
+  "keywords": [],
+  "author": "Ferruccio Barletta (ferruccio.barletta@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferruccio/gh-ts-module/issues"
+  },
+  "homepage": "https://github.com/ferruccio/gh-ts-module#readme",
+  "devDependencies": {
+    "typescript": "*"
+  }
+}

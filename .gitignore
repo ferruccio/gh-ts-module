@@ -1,0 +1,5 @@
+node_modules/
+lib/
+
+# remove after copying template
+package-lock.json
